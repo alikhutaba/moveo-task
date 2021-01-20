@@ -1,0 +1,26 @@
+.media_button {
+    width: fit-content;
+    margin-bottom: 2vh;
+    background-color: transparent;
+    border: none;
+}
+
+svg {
+  font-size: 4vw !important;
+  color: white;
+}
+
+.play:hover {
+  color:#4169E1	;
+}
+
+.pause:hover {
+  color: #DC143C;
+}
+
+
+@media (max-width: 570px) {
+  svg {
+      font-size: 12vw !important;
+  }
+}

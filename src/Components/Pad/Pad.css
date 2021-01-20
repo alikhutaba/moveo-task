@@ -1,0 +1,48 @@
+.pad{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: white;
+
+    background-image: url("https://ab-tc.com/wp-content/uploads/2020/08/Marshmello-DJ.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    border-radius: 25px;
+    z-index: 9999;
+    box-shadow: 3px 3px 3px rgb(95, 95, 95);
+}
+
+.col-sm-4{
+    padding: 0.3vw 0.3vw 0.3vw 0.3vw !important;
+}
+
+.pad_name{
+    width: 100%;
+    height: 25% !important;
+    height: fit-content;
+    padding-left: 1vw;
+    margin-bottom: 1vw;
+    padding-right: 1vw;
+    font-size: 0.8vw;
+    padding: 10px;
+    border-radius: 25px;
+    border-radius: 25px 25px 0px 0px;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+
+@media (max-width: 800px) {
+    .pad_name {
+        font-size: 1.2vw;
+    }
+  }
+
+
+  @media (max-width: 570px) {
+    .pad_name {
+        font-size: 3vw;
+    }
+  }
