@@ -1,7 +1,7 @@
 import { useState, useRef } from 'react';
 import './Pad.css';
-import Bar from '../../Components/Bar/Bar.js';
-import PalyButton from '../../Components/Buttons/Pause';
+import Bar from '../../Components/Bar/Bar';
+import PalyButton from '../../Components/Buttons/Play';
 import PauseButton from '../../Components/Buttons/Pause';
 
 function Pad(props) {
