@@ -1,8 +1,8 @@
 import { useState, useRef } from 'react';
 import './Pad.css';
-import Bar from './../Bar/Bar.js';
-import PalyButton from './../Buttons/Play.js';
-import PauseButton from './../Buttons/Pause.js';
+import Bar from '../../Components/Bar/Bar.js';
+import PalyButton from '../../Components/Buttons/Pause';
+import PauseButton from '../../Components/Buttons/Pause';
 
 function Pad(props) {
 
@@ -33,8 +33,8 @@ function Pad(props) {
 
     return (
 
-        <div className="col-sm-4">
-            <div className="pad">
+        <div className="col-sm-4 pad">
+            <div className="inir-pad">
 
                 <audio
                     ref={myRef}
@@ -42,7 +42,7 @@ function Pad(props) {
                     onTimeUpdate={timeupdate}
                     loop={true}
                 />
-
+                {/* get the audio name from path. */}
                 <div className="pad_name">{props.sound.replace(/^.*[\\\/]/, '')}</div>
 
                 {audioStatus ?

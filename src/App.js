@@ -1,7 +1,8 @@
 import { useState } from 'react';
 
-import Pad from './Components/Pad/Pad.js';
-import Title from './Components/Title/Title.js';
+import Pad from './Views/Pad/Pad';
+import Title from './Views/Title/Title';
+import Record from './Views/Record/Record';
 
 import soundfile1 from "./mp3/120_stutter_breakbeats_16.mp3"
 import soundfile2 from "./mp3/Bass Warwick heavy funk groove on E 120 BPM.mp3"
@@ -23,6 +24,7 @@ function App() {
     <div className="container">
 
       <Title title="DJ Moveo"></Title>
+
       <div className="row">
         <Pad sound={soundfile1} timerState={{ timer, setTimer }}></Pad>
         <Pad sound={soundfile2} timerState={{ timer, setTimer }}></Pad>
@@ -34,6 +36,8 @@ function App() {
         <Pad sound={soundfile8} timerState={{ timer, setTimer }}></Pad>
         <Pad sound={soundfile9} timerState={{ timer, setTimer }}></Pad>
       </div>
+
+      <Record></Record>
 
     </div>
   );

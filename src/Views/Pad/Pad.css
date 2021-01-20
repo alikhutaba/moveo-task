@@ -1,4 +1,4 @@
-.pad{
+.inir-pad{
     width: 100%;
     height: 100%;
     text-align: center;
@@ -15,7 +15,7 @@
     box-shadow: 3px 3px 3px rgb(95, 95, 95);
 }
 
-.col-sm-4{
+.pad{
     padding: 0.3vw 0.3vw 0.3vw 0.3vw !important;
 }
 
