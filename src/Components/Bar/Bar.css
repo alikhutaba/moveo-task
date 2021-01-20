@@ -24,8 +24,6 @@
     background-color: #FF7F50	;
 }
 
-
-
 @media (max-width: 570px) {
     .bar_progress {
         margin: 0 5vw;
