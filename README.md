@@ -3,4 +3,4 @@
 
 # live demo
 
-https://alikhutaba.github.io/Resume/
+https://alikhutaba.github.io/moveo-task/
