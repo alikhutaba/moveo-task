@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/moveo-task/static/css/main.8d813c15.chunk.css",
-    "main.js": "/moveo-task/static/js/main.3e6a4e96.chunk.js",
-    "main.js.map": "/moveo-task/static/js/main.3e6a4e96.chunk.js.map",
-    "runtime-main.js": "/moveo-task/static/js/runtime-main.efcb226e.js",
-    "runtime-main.js.map": "/moveo-task/static/js/runtime-main.efcb226e.js.map",
+    "main.css": "/moveo-task/static/css/main.ff58b6eb.chunk.css",
+    "main.js": "/moveo-task/static/js/main.226e7558.chunk.js",
+    "main.js.map": "/moveo-task/static/js/main.226e7558.chunk.js.map",
+    "runtime-main.js": "/moveo-task/static/js/runtime-main.ceedfaca.js",
+    "runtime-main.js.map": "/moveo-task/static/js/runtime-main.ceedfaca.js.map",
     "static/css/2.150d169a.chunk.css": "/moveo-task/static/css/2.150d169a.chunk.css",
-    "static/js/2.02fa3280.chunk.js": "/moveo-task/static/js/2.02fa3280.chunk.js",
-    "static/js/2.02fa3280.chunk.js.map": "/moveo-task/static/js/2.02fa3280.chunk.js.map",
-    "static/js/3.1262ad80.chunk.js": "/moveo-task/static/js/3.1262ad80.chunk.js",
-    "static/js/3.1262ad80.chunk.js.map": "/moveo-task/static/js/3.1262ad80.chunk.js.map",
+    "static/js/2.664ac921.chunk.js": "/moveo-task/static/js/2.664ac921.chunk.js",
+    "static/js/2.664ac921.chunk.js.map": "/moveo-task/static/js/2.664ac921.chunk.js.map",
+    "static/js/3.4b5b08ee.chunk.js": "/moveo-task/static/js/3.4b5b08ee.chunk.js",
+    "static/js/3.4b5b08ee.chunk.js.map": "/moveo-task/static/js/3.4b5b08ee.chunk.js.map",
     "index.html": "/moveo-task/index.html",
     "static/css/2.150d169a.chunk.css.map": "/moveo-task/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.8d813c15.chunk.css.map": "/moveo-task/static/css/main.8d813c15.chunk.css.map",
-    "static/js/2.02fa3280.chunk.js.LICENSE.txt": "/moveo-task/static/js/2.02fa3280.chunk.js.LICENSE.txt",
+    "static/css/main.ff58b6eb.chunk.css.map": "/moveo-task/static/css/main.ff58b6eb.chunk.css.map",
+    "static/js/2.664ac921.chunk.js.LICENSE.txt": "/moveo-task/static/js/2.664ac921.chunk.js.LICENSE.txt",
     "static/media/120_future_funk_beats_25.5eb417fc.mp3": "/moveo-task/static/media/120_future_funk_beats_25.5eb417fc.mp3",
     "static/media/120_stutter_breakbeats_16.37c82282.mp3": "/moveo-task/static/media/120_stutter_breakbeats_16.37c82282.mp3",
     "static/media/Bass Warwick heavy funk groove on E 120 BPM.52c24c81.mp3": "/moveo-task/static/media/Bass Warwick heavy funk groove on E 120 BPM.52c24c81.mp3",
@@ -25,10 +25,10 @@
     "static/media/electric guitar coutry slide 120bpm - B.230fcab8.mp3": "/moveo-task/static/media/electric guitar coutry slide 120bpm - B.230fcab8.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.efcb226e.js",
+    "static/js/runtime-main.ceedfaca.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.02fa3280.chunk.js",
-    "static/css/main.8d813c15.chunk.css",
-    "static/js/main.3e6a4e96.chunk.js"
+    "static/js/2.664ac921.chunk.js",
+    "static/css/main.ff58b6eb.chunk.css",
+    "static/js/main.226e7558.chunk.js"
   ]
 }
